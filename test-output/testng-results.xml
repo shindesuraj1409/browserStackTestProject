@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15094" started-at="2020-06-16T08:42:43Z" finished-at="2020-06-16T08:42:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15094" started-at="2020-06-16T08:42:43Z" finished-at="2020-06-16T08:42:58Z">
+      <class name="com.browserstack.stagetech.BrowserStackTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.browserstack.stagetech.BrowserStackTest@1888ff2c]" name="setup" is-config="true" duration-ms="10318" started-at="2020-06-16T14:12:43Z" finished-at="2020-06-16T14:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="serachOnBrowser()[pri:0, instance:com.browserstack.stagetech.BrowserStackTest@1888ff2c]" name="serachOnBrowser" duration-ms="2888" started-at="2020-06-16T14:12:54Z" finished-at="2020-06-16T14:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOnBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.stagetech.BrowserStackTest@1888ff2c]" name="tearDown" is-config="true" duration-ms="1862" started-at="2020-06-16T14:12:57Z" finished-at="2020-06-16T14:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.stagetech.BrowserStackTest -->
+      <class name="com.browserstack.stagetech.BrowseStacckOSX">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.browserstack.stagetech.BrowseStacckOSX@6e3c1e69]" name="setup" is-config="true" duration-ms="8552" started-at="2020-06-16T14:12:43Z" finished-at="2020-06-16T14:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="serachOnBrowser()[pri:0, instance:com.browserstack.stagetech.BrowseStacckOSX@6e3c1e69]" name="serachOnBrowser" duration-ms="2577" started-at="2020-06-16T14:12:52Z" finished-at="2020-06-16T14:12:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachOnBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.stagetech.BrowseStacckOSX@6e3c1e69]" name="tearDown" is-config="true" duration-ms="336" started-at="2020-06-16T14:12:54Z" finished-at="2020-06-16T14:12:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.stagetech.BrowseStacckOSX -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
